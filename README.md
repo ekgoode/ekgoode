@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ethan!
 
-I'm a **data scientist** passionate about building interpretable, production-ready machine learning models — especially for public sector and applied social impact work.  
+I'm a **data scientist** passionate about building interpretable, production-ready machine learning models in public policy settings.  
 
 ---
 
