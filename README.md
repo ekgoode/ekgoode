@@ -24,8 +24,8 @@ I'm a **data scientist** passionate about building interpretable, production-rea
 ---
 
 ### 📊 GitHub & Coding Stats
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekgoode&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgoode&layout=compact&theme=default)
+![Ethan's GitHub stats](https://github-readme-stats-beta-one-shjvivxmjp.vercel.app/api?username=ekgoode&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-beta-one-shjvivxmjp.vercel.app/api/top-langs/?username=ekgoode&layout=compact&theme=default)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ekgoode?theme=light&font=Fenix&ext=heatmap)
 
